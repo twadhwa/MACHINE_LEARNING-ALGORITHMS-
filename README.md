@@ -1,2 +1,2 @@
-# MACHINE_LEARNING-ALGORITHMS
-Machine_learning algorithms
+# ML_ALGORITHMS
+ML_algorithms
