@@ -5,4 +5,3 @@ ML_algorithms
 
 This project includes various Ml algo like Linear Regression, Logistic Regression, Decision Tree, random tree 
 SVM etc 
-..
